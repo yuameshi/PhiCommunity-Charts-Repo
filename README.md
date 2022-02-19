@@ -18,11 +18,11 @@
 
 在其中创建或粘贴以下文件
 ```
-meta.json			必须-元数据		(名称不可变更)
-base.mp3			必选-音乐		(名称可变更)
-chart.json			必须-铺面		(名称可变更)
-line.json			可选-判定线贴图	 (名称可变更)
-illustration.jpg 	必须-曲绘		 (名称可变更)
+meta.json          必须-元数据     (名称不可变更)
+base.mp3           必选-音乐       (名称可变更)
+chart.json         必须-铺面       (名称可变更)
+line.json          可选-判定线贴图  (名称可变更)
+illustration.jpg   必须-曲绘       (名称可变更)
 ```
 > 音乐要求：MP3/OGG/WAV等常见格式(能正常兼容各个浏览器的AudioContext即可)，大小小于5MB(建议调整采样率为44100kHz，调整比特率108~128Kbps，声道双通道)
 
@@ -44,15 +44,14 @@ illustration.jpg 	必须-曲绘		 (名称可变更)
 	"chartHD":"Chart_HD.json",                     //HD谱面（若没有值可不填）
 	"chartIN":"Chart_IN.json",                     //IN谱面（若没有值可不填）
 	"chartAT":"Chart_AT.json",                     //AT谱面（若没有值可不填）
-	"chartLegacy":"Chart_AT.json",                 //Legacy谱面（若没有值可不填）
 	"illustration":"illustration.jpg",             //曲绘文件名
-	"ezChartDesigner":"RDRT -p 19:08:31",          //谱师(当此属性存在时将忽略所有其他谱师设定)
+	"chartDesigner":"RDRT -p 19:08:31",            //谱师(当此属性存在时将忽略所有其他谱师设定)
 	"ezChartDesigner":"RDRT -p 19:08:31",          //EZ谱师
 	"hdChartDesigner":"RDRT -p 20:02:21",          //HD谱师
 	"inChartDesigner":"RDRT -p 20:08:31",          //IN谱师
 	"atChartDesigner":"RWND -p 16493:62786:92551", //AT谱师
 	"illustrator":"犀牛沱动画工坊",                 //曲绘画师
-	"sliceAudioStart":"84.5"                      //预览音频切片开始时间（秒），预览音频持续时间为15秒
+	"sliceAudioStart":"84.5"                       //预览音频切片开始时间（秒），预览音频持续时间为15秒
 }
 ```
 
