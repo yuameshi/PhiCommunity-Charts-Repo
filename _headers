@@ -1,2 +1,11 @@
+https://cf.charts.phi.han-han.xyz/*
+  Access-Control-Allow-Origin: *
+
+https://charts-phi.pages.dev/*
+  Access-Control-Allow-Origin: *
+
 *
+  Access-Control-Allow-Origin: *
+
+*/*
   Access-Control-Allow-Origin: *
