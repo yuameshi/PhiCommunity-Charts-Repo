@@ -57,6 +57,8 @@ illustration.jpg   必须-曲绘       (名称可变更)
 
 完成后，将谱面文件夹（您之前创建的）上传到 *你的Git仓库*（您之前复刻的那个），然后打开一个新的 `Pull Request` 然后等待合并。
 
+如果您觉得此操作实在无法理解，您可以提出[Issue](https://github.com/HanHan233/PhiCommunity-Charts-Repo/issues)，让我代为添加。
+
 # 请最好一次Commit搞定(真的不想Git仓库体积爆炸)
 
 # 搞错了什么的话就删掉仓库重新Fork一个
