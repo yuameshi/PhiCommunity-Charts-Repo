@@ -2,7 +2,7 @@
 
 这里是[PhiCommunity](https://github.com/HanHan233/PhiCommunity)的谱面仓库，用于储存谱面文件
 
-点击[此处](https://github.com/HanHan233/PhiCommunity-Charts-Repo)前往PCCP的GitHub仓库
+点击[此处](https://github.com/HanHan233/PhiCommunity-Charts-Repo)前往PCCR的GitHub仓库
 
 # 提交谱面
 
