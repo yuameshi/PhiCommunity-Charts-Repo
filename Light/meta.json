@@ -8,11 +8,7 @@
 	"chartIN":"Chart_IN.pec",                     //IN谱面（若没有值可不填）
 	"chartAT":"Chart_AT.pec",                     //AT谱面（若没有值可不填）
 	"illustration":"Light.png",             //曲绘文件名
-	"chartDesigner":"Wanjiongming -p 19:08:31",            //谱师(当此属性存在时将忽略所有其他谱师设定)
-	"ezChartDesigner":"Wanjiongming -p 19:08:31",          //EZ谱师
-	"hdChartDesigner":"Wanjiongming -p 20:02:21",          //HD谱师
-	"inChartDesigner":"Wanjiongming -p 20:08:31",          //IN谱师
-	"atChartDesigner":"Wanjiongming -p 16493:62786:92551", //AT谱师
+	"chartDesigner":"Wanjiongming",            //谱师(当此属性存在时将忽略所有其他谱师设定)
 	"illustrator":"Network Findings",                 //曲绘画师
 	"sliceAudioStart":"22.8"                       //预览音频切片开始时间（秒），预览音频持续时间为15秒
 }
