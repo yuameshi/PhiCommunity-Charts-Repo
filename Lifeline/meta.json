@@ -1,0 +1,23 @@
+{
+	"name":"Lifeline",
+	"codename":"Lifeline",
+	"artist": "Zeraphym",
+	"musicFile":"Lifeline.mp3",
+	"ezRanking":,
+	"hdRanking":,
+	"inRanking":11,
+	"atRanking":,
+	"lineTexture":"",
+	"chartEZ":"",
+	"chartHD":"",
+	"chartIN":"Chart_IN.pec",
+	"chartAT":"",
+	"illustration":"Lifeline.png",
+	"chartDesigner":"Anslate",
+	"ezChartDesigner":"",
+	"hdChartDesigner":"",
+	"inChartDesigner":"Anslate",
+	"atChartDesigner":"",
+	"illustrator":"川上六角",                 
+	"sliceAudioStart":"20"                      
+}
