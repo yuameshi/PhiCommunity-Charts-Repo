@@ -1,7 +1,13 @@
 https://cf.charts.phi.han-han.xyz/*
   Access-Control-Allow-Origin: *
+  
+https://cf.charts.phicommunity.com.cn/*
+  Access-Control-Allow-Origin: *
 
 https://charts-phi.pages.dev/*
+  Access-Control-Allow-Origin: *
+
+https://*charts*/*
   Access-Control-Allow-Origin: *
 
 *
