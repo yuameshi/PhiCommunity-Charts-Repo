@@ -6,7 +6,7 @@
 
 # 提交谱面
 
-在一切的之前，您需要PhiEdit或Re:PhiEdit创建的PEC格式谱面或者官方的JSON格式谱面，没有就别说了（请注意，我们不提供PhiEdit和Re:PhiEdit的副本）
+在一切的之前，您需要PhiEditor或Re:PhiEdit创建的PEC格式谱面或官方的JSON格式谱面，没有就别说了（请注意，我们不提供PhiEditor和Re:PhiEdit的副本）
 
 请注意：对于Re:PhiEdit导出的PEC谱面可能需要做一些特殊的修正，请参考[这份文档](https://ilovecpp-my.sharepoint.com/:b:/g/personal/admin_han-han_xyz/EU6w76wDBIxMr0hhdeYP650BVg-UzIrQG3VhYiiTUmPCtA?e=y0CBjB)，在按此说明导出合适的PEC谱面后，前往lchzh3473的模拟器测试是否能正常播放，再进行提交。
 
@@ -16,29 +16,36 @@
 
 首先创建一个具有正确名称的新文件夹，例如 `rrhar` 或 `rrharil` 指的是 `Rrhar'il`。（不要包含特殊字符，如 `' / \ ` 等，不能以`.`开头）
 
+我们建议的文件夹名称格式是`谱师.曲名`，例如`baibiao.senbonzakura`。
+
 在其中创建或粘贴以下文件
 ```
 meta.json          必须-元数据     (名称不可变更)
 base.mp3           必选-音乐       (名称可变更)
 chart.json         必须-铺面       (名称可变更)
 line.json          可选-判定线贴图  (名称可变更)
+bga.mp4        	   可选-背景动画   (名称可变更)
 illustration.jpg   必须-曲绘       (名称可变更)
 ```
-> 音乐要求：MP3/OGG/WAV等常见格式(能正常兼容各个浏览器的AudioContext即可)，大小小于5MB(建议调整采样率为44100kHz，调整比特率108~128Kbps，声道双通道)
+> 音乐要求：MP3/OGG/WAV等常见格式(能正常兼容各个浏览器的AudioContext即可)，大小小于5MB，建议小于2.5MB(建议调整采样率为44100kHz，调整比特率108~128Kbps，声道双通道)
 
 > 曲绘要求：JPG/PNG等常见格式(WebP没测试过)，大小小于0.5MB
 
-在`meta.json`内填入歌曲元信息（见下），注意要删除注释，使用英文字符，且双引号需要添加`\`转译。
+> 背景动画要求：MP4等常见格式，大小小于30MB，建议小于20MB，去除声音通道。
+
+在`meta.json`内填入歌曲元信息（见下），注意要删除注释，使用英文字符，且双引号需要添加`\`转译，不填的值直接删除该行或填写`null`。
 ```javascript
 {
 	"name":"Rrhar'il",                             //曲名
 	"codename":"rrharil",                          //代号(你的文件夹名称)
 	"artist": "Team Grimoire",                     //曲师
+	"copyrights": "Pigeon Games",                  //版权字段，可填写您的名字，演示视频等链接，此字段仅用于标识，程序将不会读取
 	"musicFile":"music.ogg",                       //音乐文件名
 	"ezRanking":7,                                 //EZ定数（若没有值可不填）
 	"hdRanking":12,                                //HD定数（若没有值可不填）
 	"inRanking":15,                                //IN定数（若没有值可不填）
 	"atRanking":16,                                //AT定数（若没有值可不填）
+	"backgroundAnimation":"bga.mp4",               //可选-背景动画文件名
 	"lineTexture":"line.json",                     //可选-判定线贴图文件名
 	"chartEZ":"Chart_EZ.json",                     //EZ谱面（若没有值可不填）
 	"chartHD":"Chart_HD.json",                     //HD谱面（若没有值可不填）
