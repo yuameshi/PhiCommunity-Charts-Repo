@@ -1,0 +1,13 @@
+{
+	"name":"Credits",                      
+	"codename":"cd",                    
+	"artist": "frums",               
+	"musicFile":"Credits.mp3",                  
+	"inRanking":13,                              
+	"chartIN":"Credits.pec",                     
+	"illustration":"Credits.jpg",             
+	"chartDesigner":"Ctymax",           
+	"inChartDesigner":"Ctymax",          
+	"illustrator":"Ctymax",                
+	"sliceAudioStart":"84.5"                       
+}
