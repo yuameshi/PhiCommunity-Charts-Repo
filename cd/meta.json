@@ -1,11 +1,11 @@
 {
 	"name":"Credits",                      
 	"codename":"cd",                    
-	"artist": "frums",               
+	"artist": "Frums",               
 	"musicFile":"Credits.mp3",                  
 	"inRanking":13,                              
 	"chartIN":"Credits.pec",                     
-	"illustration":"Credits.jpg",             
+	"illustration":"Credits.png",             
 	"chartDesigner":"Ctymax",           
 	"inChartDesigner":"Ctymax",          
 	"illustrator":"Ctymax",                
