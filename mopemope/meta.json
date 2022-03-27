@@ -1,0 +1,12 @@
+{
+	"name":"もぺもぺ",                             //曲名
+	"codename":"mopemope",                          //代号(你的文件夹名称)
+	"artist": "Leaf",                     //曲师
+	"musicFile":"8723881.ogg",                       //音乐文件名
+	"atRanking":15,                                //AT定数（若没有值可不填）
+	"chartAT":"8723881.json",                     //AT谱面（若没有值可不填）
+	"illustration":"illustration.jpg",             //曲绘文件名
+	"atChartDesigner":"Max3957 v.s. Mwfyuma Peustallora", //AT谱师
+	"illustrator":"Optie",                 //曲绘画师
+	"sliceAudioStart":"84.5"                       //预览音频切片开始时间（秒），预览音频持续时间为15秒
+}
