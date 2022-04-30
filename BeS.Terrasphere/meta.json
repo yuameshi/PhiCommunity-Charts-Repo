@@ -1,0 +1,13 @@
+{
+	"name":"Terrasphere",
+	"codename":"Terrasphere",
+	"artist":"MitiS",
+	"musicFile":"terrasphere.mp3",
+	"inRanking":15,
+	"chartIN":"terrasphere.pec",
+	"backgroundAnimation": "terrasphere.mp4",
+	"illustration":"terrasphere.PNG",
+	"chartDesigner":"BeS",
+	"illustrator":"MitiS",
+	"sliceAudioStart":"98"
+}
