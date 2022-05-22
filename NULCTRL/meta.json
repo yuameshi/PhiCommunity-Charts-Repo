@@ -9,5 +9,5 @@
 	"illustration":"NULCTRL.jpg",
 	"chartDesigner":"Kedmue",
 	"illustrator":"Silentroom",
-	"sliceAudioStart":"35.5"                       //预览音频切片开始时间（秒），预览音频持续时间为15秒
+	"sliceAudioStart":"35.5"
 }
