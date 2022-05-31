@@ -1,0 +1,19 @@
+{
+	"name":"SIGMA",
+	"codename":"barbarianerman.sigma",
+	"artist":"Kry.exe",
+	"copyrights": "Pigeon Games",
+	"musicFile":"Music.mp3",
+	"ezRanking":4,
+	"hdRanking":11,
+	"inRanking":15,
+	"chartEZ":"Chart_EZ.json",
+	"chartHD":"Chart_HD.json",
+	"chartIN":"Chart_IN.json",
+	"illustration":"Illustration.png",
+	"ezChartDesigner":"Barbarianerman.exe",
+	"hdChartDesigner":"Bσrbσriσnermσn.exe",
+	"inChartDesigner":"Bσrbσriσn∑rmσn.∑x∑",
+	"illustrator":"塔塔",
+	"sliceAudioStart":"39.5"
+}
