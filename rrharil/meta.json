@@ -1,0 +1,23 @@
+{
+	"name":"Rrhar'il",                             //曲名
+	"codename":"rrharil",                          //代号(你的文件夹名称)
+	"artist": "Team Grimoire",                     //曲师
+	"copyrights": "Pigeon Games",                  //版权字段，可填写您的名字，演示视频等链接，此字段仅用于标识，程序将不会读取
+	"musicFile":"music.mp3",                       //音乐文件名
+	"ezRanking":7,                                 //EZ定数（若没有值可不填）
+	"hdRanking":12,                                //HD定数（若没有值可不填）
+	"inRanking":15,                                //IN定数（若没有值可不填）
+	"atRanking":16,                                //AT定数（若没有值可不填）
+	"chartEZ":"Chart_EZ.json",                     //EZ谱面（若没有值可不填）
+	"chartHD":"Chart_HD.json",                     //HD谱面（若没有值可不填）
+	"chartIN":"Chart_IN.json",                     //IN谱面（若没有值可不填）
+	"chartAT":"Chart_AT.json",                     //AT谱面（若没有值可不填）
+	"illustration":"illustration.png",             //曲绘文件名
+	"chartDesigner":"RDRT -p 19:08:31",            //谱师(当此属性存在时将忽略所有其他谱师设定)
+	"ezChartDesigner":"RDRT -p 19:08:31",          //EZ谱师
+	"hdChartDesigner":"RDRT -p 20:02:21",          //HD谱师
+	"inChartDesigner":"RDRT -p 20:08:31",          //IN谱师
+	"atChartDesigner":"RWND -p 16493:62786:92551", //AT谱师
+	"illustrator":"犀牛沱动画工坊",                 //曲绘画师
+	"sliceAudioStart":"84.5"                       //预览音频切片开始时间（秒），预览音频持续时间为15秒
+}
