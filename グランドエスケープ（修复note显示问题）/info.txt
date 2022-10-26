@@ -1,0 +1,9 @@
+#
+Name: グランドエスケープ
+Path: 24068663
+Song: 24068663.mp3
+Picture: 24068663.jpg
+Chart: 24068663.json
+Level: WEATHER Lv.12
+Composer: TSAR 三浦透子
+Charter: 明雨-晴
