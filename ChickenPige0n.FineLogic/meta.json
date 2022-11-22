@@ -1,0 +1,15 @@
+{
+	"name":"Fine Logic",
+	"codename":"ChickenPige0n.FineLogic",
+	"artist": "Sephid",
+	"copyrights": "ChickenPige0n",
+	"musicFile":"FineLogic.ogg",
+	"inRanking":14,
+	"backgroundAnimation":"bga.mp4",
+	"chartIN":"FineLogic.json",
+	"illustration":"FineLogic.jpg",
+	"chartDesigner":"ChickenPige0n",
+	"inChartDesigner":"ChickenPige0n",
+	"illustrator":"Kazu",
+	"sliceAudioStart":"0.0"
+}
