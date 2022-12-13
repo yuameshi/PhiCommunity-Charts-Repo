@@ -1,0 +1,9 @@
+#
+Name: Abiogenesis
+Path: 71579150
+Song: 71579150.ogg
+Picture: 71579150.jpg
+Chart: 71579150.json
+Level: IN Lv.14
+Composer: Juggernaut.
+Charter: 無極Rayix
