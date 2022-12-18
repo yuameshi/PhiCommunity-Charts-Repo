@@ -1,12 +1,12 @@
 {
-	"name":"Abiogenesis",
-	"codename":"Abiogenesis",
+	"name": "Abiogenesis",
+	"codename": "Abiogenesis",
 	"artist": "BlackY",
-	"musicFile":"71579150.ogg",
+	"musicFile": "71579150.ogg",
 	"inRanking":14,
-	"chartIN":"71579150.json",
-	"illustration":"71579150.jpg",
-	"chartDesigner":"無極Rayix",
-	"illustrator":"AD:PIUANO VII -Alternative-",
-	"sliceAudioStart":"56.5"
+	"chartIN": "71579150.pec",
+	"illustration": "71579150.jpg",
+	"chartDesigner": "無極Rayix",
+	"illustrator": "AD:PIUANO VII -Alternative-",
+	"sliceAudioStart": "56.5"
 }
