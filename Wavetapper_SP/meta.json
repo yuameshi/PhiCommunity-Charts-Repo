@@ -1,0 +1,19 @@
+{
+	"name":"Wavetapper SP",
+	"codename":"Wavetapper_SP",
+	"artist": "Frums",
+	"musicFile":"Wavetapper SP.mp3",
+	"ezRanking":0,
+	"hdRanking":4,
+	"inRanking":0,
+	"atRanking":1,
+	"chartEZ":"Wavetapper_SP.json",
+	"chartHD":"Wavetapper_SP.json",
+	"chartIN":"Wavetapper_SP.json",
+	"chartAT":"Wavetapper_SP.json",
+	"chartLegacy":"Wavetapper_SP.json",
+	"illustration":"Wavetapper SP.jpg",
+	"chartDesigner":"198/NER",
+	"illustrator":"百九十八",
+	"sliceAudioStart":"68"
+}

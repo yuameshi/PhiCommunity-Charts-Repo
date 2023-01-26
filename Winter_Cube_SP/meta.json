@@ -1,0 +1,19 @@
+{
+	"name":"Winter Cube SP",
+	"codename":"Winter_Cube_SP",
+	"artist": "Ctymax feat. NceS",
+	"musicFile":"Winter Cube SP.mp3",
+	"ezRanking":13,
+	"hdRanking":13,
+	"inRanking":13,
+	"atRanking":13,
+	"chartEZ":"Winter Cube_SP.json",
+	"chartHD":"Winter Cube_SP.json",
+	"chartIN":"Winter Cube_SP.json",
+	"chartAT":"Winter Cube_SP.json",
+	"chartLegacy":"Winter Cube_SP.json",
+	"illustration":"Winter Cube SP.jpg",
+	"chartDesigner":"小鹏",
+	"illustrator":"翠冷兮",
+	"sliceAudioStart":"0"
+}

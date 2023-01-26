@@ -1,0 +1,19 @@
+{
+	"name":"Rubbish Sorting SP",
+	"codename":"Rubbish_Sorting_SP",
+	"artist": "Ctymax vs. NceS",
+	"musicFile":"Rubbish Sorting SP.mp3",
+	"ezRanking":0,
+	"hdRanking":4,
+	"inRanking":0,
+	"atRanking":1,
+	"chartEZ":"Rubbish Sorting_SP.json",
+	"chartHD":"Rubbish Sorting_SP.json",
+	"chartIN":"Rubbish Sorting_SP.json",
+	"chartAT":"Rubbish Sorting_SP.json",
+	"chartLegacy":"Rubbish Sorting_SP.json",
+	"illustration":"Rubbish Sorting SP.jpg",
+	"chartDesigner":"Gausbon",
+	"illustrator":"knife美工刀",
+	"sliceAudioStart":"48"
+}
