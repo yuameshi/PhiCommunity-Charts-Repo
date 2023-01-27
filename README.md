@@ -8,7 +8,7 @@
 
 在一切的之前，您需要PhiEditor或Re:PhiEdit创建的PEC格式谱面或官方的JSON格式谱面，没有就别说了（请注意，我们不提供PhiEditor和Re:PhiEdit的副本）
 
-请注意：对于Re:PhiEdit导出的PEC谱面可能需要做一些特殊的修正，请参考[这份文档](https://ilovecpp-my.sharepoint.com/:b:/g/personal/admin_han-han_xyz/EU6w76wDBIxMr0hhdeYP650BVg-UzIrQG3VhYiiTUmPCtA?e=y0CBjB)，在按此说明导出合适的PEC谱面后，前往lchzh3473的模拟器测试是否能正常播放，再进行提交。
+请注意：对于Re:PhiEdit导出的PEC谱面可能需要做一些特殊的修正，请参考[这份文档](https://ilovecpp-my.sharepoint.com/:b:/g/personal/yuameshi_yuameshi_top/EU6w76wDBIxMr0hhdeYP650BVg-UzIrQG3VhYiiTUmPCtA?e=y0CBjB)，在按此说明导出合适的PEC谱面后，前往lchzh3473的模拟器测试是否能正常播放，再进行提交。
 
 并且在提交前确保您已经获得曲师、谱师和曲绘画师的授权。
 
