@@ -1,0 +1,14 @@
+{
+	"name":"Sigma~105~Simple",                             
+	"codename":"simplesigma",                      
+	"artist": "Daily天利",                    
+	"copyrights": "Bilibili@Hawhale0331",             
+	"musicFile":"85805680.mp3",                                                                             
+	"inRanking":13,                                       
+	"lineTexture":"line.json",                                  
+	"chartIN":"85805680.json",                                 
+	"illustration":"85805680.png",             
+	"chartDesigner":"Hawhale",            
+	"illustrator":"天利利利利",                 
+	"sliceAudioStart":"00.01"                       
+}
