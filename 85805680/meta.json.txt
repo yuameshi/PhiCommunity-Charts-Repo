@@ -1,0 +1,13 @@
+{
+	"name":"Sigma~105~Simple",                             //曲名
+	"codename":"simplesigma",                          //代号(你的文件夹名称)
+	"artist": "Daily天利",                     //曲师
+	"copyrights": "Bilibili@Hawhale0331",                  //版权字段，可填写您的名字，演示视频等链接，此字段仅用于标识，程序将不会读取
+	"musicFile":"85805680.mp3",                       //音乐文件名
+	"inRanking":13,                                //IN定数（若没有值可不填）
+	"chartIN":"85805680.json",                     //IN谱面（若没有值可不填）
+	"illustration":"85805680.png"           //曲绘文件名
+	"chartDesigner":"Hawhale",            //谱师(当此属性存在时将忽略所有其他谱师设定)
+	"illustrator":"天利利利利",                 //曲绘画师
+	"sliceAudioStart":"00.01"                       //预览音频切片开始时间（秒），预览音频持续时间为15秒
+}
